@@ -1,0 +1,153 @@
+{
+  "meta": {
+  },
+  "basics": {
+    "name": "Rongbiao Gu",
+    "label": "Machine Learning Engineer, entrepreneur",
+    "summary": "I’m a full stack ML engineer who can take it from business problem to ML applications. I am used to wearing many hats but I specialized in building workflow automation and decision-support type AI applications. ",
+    "email": "rongbiao.gu@gmail.com",
+    "location": {
+      "city": "Toronto",
+      "countryCode": "CA"
+    }
+  },
+  "education": [
+    {
+      "endDate": "2011-05-01",
+      "startDate": "2009-09-01",
+      "area": "Mechanical Engineering",
+      "studyType": "Masters",
+      "institution": "Tufts University"
+    },
+    {
+      "endDate": "2009-05-01",
+      "startDate": "2005-09-01",
+      "area": "Automotive Engineering",
+      "studyType": "Bachelors",
+      "institution": "Tufts University"
+    }
+  ],
+  "references": [
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "Machine Learning / Deep Learning",
+        "Data Modeling",
+        "Visualization",
+        "A/B Testing",
+        "Computer vision",
+        "NLP"
+      ],
+      "level": "Master",
+      "name": "Data Science"
+    },
+    {
+      "keywords": ["AWS", "GCP", "ETL", "MLOps", "Docker","Python","SQL","Cloud Architecture"],
+      "level": "Advanced",
+      "name": "ML Engineering"
+    },
+    {
+      "keywords": ["Consulting","Product Management","Business Strategy"],
+      "level": "Advanced",
+      "name": "High Level"
+    }
+  ],
+  "work": [
+    {
+      "summary": "Built IoT solutions for industrial and transportation applications. I am responsible for the software platform end-to-end including cloud architecture and the machine learning components",
+      "name": "IOVision",
+      "location": "Toronto",
+      "position": "Founding Data Scientist",
+      "startDate": "2022-11-01",
+      "highlights": ["Architecture on GCP", "Use computer vision to detect cargo displacement", "IoT", "Preventative maintenance"]
+    },
+    {
+      "summary": "Moonshot is a tech-driven private equity firm specialized in e-commerce. I built the platform that collect, analyze and visualize alternative data to assist the M & A due diligence process, providing insightful analysis and recommendations to our investment team. I was also in charge of building the workflow automation tools for brand managers.",
+      "website": "https://www.moonshotbrands.com",
+      "name": "Moonshot Brands (YC21)",
+      "location": "Toronto/Global Remote",
+      "position": "Chief Data Scientist",
+      "startDate": "2022-02-11",
+      "endDate": "2022-11-01",
+      "highlights": [
+        "Facilitated over $10M in acquisitions",
+        "Built ML APIs with Kubernetes/AppEngine/CloudFunction",
+        "Data visualization with Plotly/Grafana",
+        "Data pipelines with CloudStorage/Postgres/BigQuery/dbt",
+        "Financial modelling"
+      ]
+    },
+    {
+      "highlights": [
+        "Revamped the core bidder code to be more marketplace agnostic, maintainable and performant.",
+        "Delivered a vector space model to represent products in the marketplace so that other systems can be optimized faster.",
+        "Delivered a performance-based advertising keyword recommendation system."
+      ],
+      "summary": "Built machine learning endpoints, including demand forecasting, and performance forecasting that service the core ad bidding optimization.",
+      "website": "https://www.teikametrics.com",
+      "name": "Teikametrics",
+      "position": "Data Scientist II",
+      "startDate": "2020-10-01",
+      "endDate": "2022-02-01"
+    },
+    {
+      "highlights": [
+        "Won a contract with one of the biggest banks in Canada",
+        "Hired a team of high performance engineers",
+        "Built the entire end-to-end infrastructure on GCP",
+        "Delivered a machine learning API that predict defaults",
+        "Delivered a machine learning API that optimizes contact center scheduling",
+        "Built a conversation agent to help collections agents",
+        "Client facing communications including presentations, consultation and requirement gathering",
+        "Pivoted to COVID related financial monitoring solution due to regulation change"
+      ],
+      "pinned": true,
+      "summary": "Built a SaaS platform that provides default predictions on millions of Canadian consumer loans.",
+      "name": "OperantAI",
+      "position": "Co-Founder",
+      "startDate": "2018-08-01",
+      "endDate": "2021-06-01"
+    },
+    {
+      "highlights": [
+        "Developed a new bidding algorithm that performed 60x better than the original version",
+        "Led the development of campaign optimization and automation tools. The software optimizes tens of million dollars of media spend allocation every year. It allows the campaign management team to handle 4x the campaign volume within a 3 year period without increased headcount.",
+        "Developed reporting and metric standards for both internal and external use. Built a business intelligence suite and data warehousing solutions."
+      ],
+      "summary": "I was in charge of building the real time bidding algorithm, and workflow automation software for campaign optimization.",
+      "website": "http://www.owneriq.com",
+      "name": "ownerIQ",
+      "position": "Data Engineer - Data Scientist/Product Manager",
+      "startDate": "2012-05-01",
+      "endDate": "2018-04-01"
+    },
+    {
+      "highlights": [
+        "Developed data strategy roadmap for various client companies",
+        "Pre-sales consulting",
+        "M & A consulting"
+      ],
+      "summary": "Strategy consultant at the boutique private equity firm, with a focus on data strategy and product roadmap for media/healthcare businesses.",
+      "website": "http://www.bridge22.com",
+      "name": "Bridge22",
+      "position": "Consultant",
+      "endDate": "2012-12-09",
+      "startDate": "2019-04-01"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Permaculture"
+    },
+    {
+      "name": "Beach Volleyball"
+    },
+    {
+      "name": "Financial Markets"
+    },
+    {
+      "name": "Open Data"
+    }
+  ]
+}
